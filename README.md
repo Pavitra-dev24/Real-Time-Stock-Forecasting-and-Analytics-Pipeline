@@ -1,4 +1,4 @@
-# Stock Price Prediction Pipeline
+# Real-Time Stock Forecasting and Analytics Pipeline
 
 This repository contains a complete pipeline that:
 
